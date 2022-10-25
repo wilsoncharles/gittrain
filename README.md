@@ -10,4 +10,4 @@
 ## Comments for testing the reset commit 2
 ## added changes for test
 ## Again for testing the reset commit 1
-## overwriting over one previous commit with another
+## Again for testing the reset commit 2
