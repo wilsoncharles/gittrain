@@ -4,4 +4,4 @@
 ## adding for developer2 test
 ## yes added
 ## for colaboration
-## changes for git reset
+## changes for git resets
