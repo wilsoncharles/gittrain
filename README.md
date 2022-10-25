@@ -5,3 +5,4 @@
 ## yes added
 ## for colaboration
 ## changes for git reset
+## Skipped what was before two changes
