@@ -8,4 +8,4 @@
 ## Skipped what was before two changes
 ## Comments for testing the reset commit 1
 ## Comments for testing the reset commit 2
-## Comments for testing the reset commit 3
+## comments for reset test
