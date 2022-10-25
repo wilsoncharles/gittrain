@@ -6,3 +6,4 @@
 ## for colaboration
 ## changes for git reset
 ## Skipped what was before two changes
+## Comments for testing the reset commit 1
